@@ -1,2 +1,2 @@
 # Hello-World
-Experimenting with Git and GitHub for CS 3377 UTD
+Experimenting with Git and GitHub created for CS 3377 UTD
